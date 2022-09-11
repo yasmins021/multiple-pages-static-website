@@ -87,14 +87,20 @@ body {
   .email-link:hover {
     text-decoration: underline;
   }
-  @media(max-width: 320px){
-   h1{
-       font-size: 70px;
-   }
-   h2{
-       font-size: 40px;
-   }
-   .email-link{
-       font-size: 20px;
-   }
-  }
+
+  @media only screen and (max-width: 600px) {
+    h1 {
+      font-size: 24px;
+    }
+    h2 {
+      font-size: 46px;
+    }
+    .yogurt,
+    .weather,
+    .yoga {
+      display: none;
+    }
+    .email-link{
+        font-size: 20px;
+    }
+}
