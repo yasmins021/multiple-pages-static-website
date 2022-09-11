@@ -100,7 +100,7 @@ body {
         font-size: 20px;
     }
     
- Img .yogurt-project,.weather-project,.yoga-project {
+ img.yogurt-project,.weather-project,.yoga-project {
             display:none;
     }
 }
