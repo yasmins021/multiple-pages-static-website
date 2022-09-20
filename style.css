@@ -2,7 +2,7 @@ root {
     --primary-color: #6c63ff;
     --secondary-color: #f5f2fe;
     --box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3);
-    --font-family: 'Karla', sans-serif;
+    
 
   }
   
@@ -43,6 +43,7 @@ root {
     border-radius: 4px;
     font-size: 18px;
     line-height: 1.5;
+    font-family: 'Karla', sans-serif;
   }
   
   .navigation-links {
