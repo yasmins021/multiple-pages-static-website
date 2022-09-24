@@ -2,7 +2,7 @@ root {
     --primary-color: #6c63ff;
     --secondary-color: #f5f2fe;
     --box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3);
-     --font:'Karla', sans-serif ;
+     --font-style:'Karla', sans-serif ;
      
 
   }
@@ -22,13 +22,13 @@ root {
     text-align: center;
     font-size: 96px;
     margin-top: 20px;
-    font-family:var(--font)
+    font-family:var(--font-style)
   }
   
   h2 {
     font-size: 40px;
         opacity: 0.9;
-        font-family:var(--font)
+        font-family:var(--font-style)
        
   }
   
@@ -36,7 +36,7 @@ root {
     text-align: center;
     font-size: 24px;
     opacity: 0.7;
-    font-family:var(--font)
+    font-family:var(--font-style)
   }
   
   p {
@@ -44,7 +44,7 @@ root {
     border-radius: 4px;
     font-size: 18px;
     line-height: 1.5;
-    font-family:var(--font)
+    font-family:var(--font-style)
   }
   
   .navigation-links {
