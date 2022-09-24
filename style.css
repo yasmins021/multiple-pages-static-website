@@ -27,7 +27,7 @@ root {
   h2 {
     font-size: 40px;
         opacity: 0.9;
-        font-family: var(--font-family);
+        font-family: 'Karla', sans-serif ;
        
   }
   
@@ -35,7 +35,7 @@ root {
     text-align: center;
     font-size: 24px;
     opacity: 0.7;
-    font-family: var(--font-family);
+    font-family: 'Karla', sans-serif ;
   }
   
   p {
