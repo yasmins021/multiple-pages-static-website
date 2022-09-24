@@ -97,9 +97,7 @@
     text-decoration: none;
   }
   
-  .email-link:hover {
-    text-decoration: underline;
-  }
+  
  
   ul li{
 	display: inline-block;
