@@ -129,7 +129,7 @@ a {
   background: linear-gradient(0deg, white, white) no-repeat right bottom / 0 var(--bg-h);
   transition: background-size 350ms;
   --bg-h: 100%;
-  font-size: 12px;
+  font-size: 17px;
   font-family: var(--font-family);
 }
 a:where(:hover, :focus-visible) {
