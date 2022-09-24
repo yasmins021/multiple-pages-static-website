@@ -1,11 +1,10 @@
-root {
+:root {
     --primary-color: #6c63ff;
     --secondary-color: #f5f2fe;
     --box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3);
-     --font-style:'Karla', sans-serif ;
+     --font-family:'Karla', sans-serif ;
      
-
-  }
+}
   
   body {
     margin-top: 0px;
@@ -22,13 +21,13 @@ root {
     text-align: center;
     font-size: 96px;
     margin-top: 20px;
-    font-family:var(--font-style)
+    font-family:var( --font-family)
   }
   
   h2 {
     font-size: 40px;
         opacity: 0.9;
-        font-family:var(--font-style)
+        font-family:var(--font-family)
        
   }
   
@@ -36,7 +35,7 @@ root {
     text-align: center;
     font-size: 24px;
     opacity: 0.7;
-    font-family:var(--font-style)
+    font-family:var(--font-family)
   }
   
   p {
@@ -44,7 +43,7 @@ root {
     border-radius: 4px;
     font-size: 18px;
     line-height: 1.5;
-    font-family:var(--font-style)
+    font-family:var(--font-family)
   }
   
   .navigation-links {
