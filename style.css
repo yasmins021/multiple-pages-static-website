@@ -89,15 +89,7 @@
     margin: 10px;
   }
   
-  .email-link {
-    display: flex;
-    justify-content: center;
-    color: var(--primary-color);
-    font-size: 28px;
-    text-decoration: none;
-  }
-  
-  
+
  
   ul li{
 	display: inline-block;
