@@ -116,7 +116,7 @@ padding-top:30px;
 }
 
 a {
-  background: linear-gradient(0deg, black, black) no-repeat right bottom / 0 var(--bg-h);
+  
   transition: background-size 350ms;
   --bg-h: 100%;
   font-size: 17px;
