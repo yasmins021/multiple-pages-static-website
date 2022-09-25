@@ -136,6 +136,7 @@ padding-top:30px;
   transform: scaleX(0);
   transform-origin: top left;
   transition: transform 0.3s ease;
+  text-decoration: none;
 }
 
 .hover-underline-animation:hover:after {
