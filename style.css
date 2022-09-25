@@ -169,6 +169,15 @@ a {
   
   }
 
+  .header-2{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding:1% 8%;
+height: 90px;
+background: transparent;
+  }
+
   header{
     animation-name: colorchange;
     animation-duration: 25s;
