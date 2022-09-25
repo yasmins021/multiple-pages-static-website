@@ -124,16 +124,17 @@ padding-top:30px;
 }
 
 .hover-underline-animation:after {
-  content: '';
+  content: "";
   position: absolute;
+  display: block;
   width: 100%;
-  transform: scaleX(0);
   height: 2px;
   bottom: 0;
   left: 0;
-  background-color: black;
-  transform-origin: bottom right;
-  transition: transform 0.25s ease-out;
+  background-color: #000;
+  transform: scaleX(0);
+  transform-origin: top left;
+  transition: transform 0.3s ease;
 }
 
 .hover-underline-animation:hover:after {
