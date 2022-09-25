@@ -175,10 +175,10 @@ a {
     align-items: center;
     padding:1% 8%;
 height: 90px;
-background: pink;
+background: transparent;
   }
 
-  header{
+  .main-header{
     animation-name: colorchange;
     animation-duration: 25s;
     animation-iteration-count: infinite;
