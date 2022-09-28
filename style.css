@@ -155,6 +155,9 @@ a {
   line-height: 1;
 }
 
+.about-section-content{
+  margin-top: 0;
+}
 
  
 
@@ -190,9 +193,7 @@ a {
     padding:1% 8%;
 height: 90px;} 
 
-.sub-hero-content{
-margin:0;
-}
+
     
 
 
