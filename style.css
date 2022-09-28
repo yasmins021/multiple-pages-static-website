@@ -156,7 +156,8 @@ a {
 }
 
 .about-section-content{
-
+position:absolute;
+margin-top: 200em;
 }
 
  
