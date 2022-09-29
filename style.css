@@ -101,8 +101,12 @@
       }
 
     .row{
-       margin-top: 230px;
+       margin-top: 10px;
     } 
+
+    .homepage{
+      margin-top: 400px;
+    }
     
        
   .background,iframe
