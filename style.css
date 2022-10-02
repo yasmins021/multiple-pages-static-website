@@ -170,7 +170,9 @@ a {
   font-family: var(--font-family);
 }
 
-
+.container-no-padding{
+  margin-top: 10px;
+}
  
 .contact-form-button{
   padding: .75rem 1.25rem;
