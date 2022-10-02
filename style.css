@@ -166,7 +166,7 @@ a {
   padding: 20px;
   margin-left: 0.7rem;
   margin-top: 10px;
-  margin-bottom: 30px;
+  margin-bottom: 10px;
   background-color: rgba(206, 212, 218, 0.2);
 }
 
@@ -184,7 +184,7 @@ a {
   opacity: 0.1;
 }
 .start-heading{
-  margin-top: 50px;
+  margin-top: 100px;
 }
   @keyframes colorchange {
       0% {background-color: #cff7de;}
