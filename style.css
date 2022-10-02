@@ -181,7 +181,10 @@ a {
   font-size: 18px;
 }
 .contact-form-button:hover{
-  opacity: 0.3;
+  opacity: 0.1;
+}
+.start-heading{
+  margin-top: 30px;
 }
   @keyframes colorchange {
       0% {background-color: #cff7de;}
