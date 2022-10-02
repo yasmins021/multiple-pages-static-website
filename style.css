@@ -165,14 +165,11 @@ a {
   border-radius: 0.7rem;
   padding: 20px;
   margin-left: 0.7rem;
-  margin-top: 2px;
+  margin-top: 10px;
+  margin-bottom: 10px;
   background-color: rgba(206, 212, 218, 0.2);
-  font-family: var(--font-family);
 }
 
-.container-no-padding{
-  margin-top: 10px;
-}
  
 .contact-form-button{
   padding: .75rem 1.25rem;
