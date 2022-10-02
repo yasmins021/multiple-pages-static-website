@@ -168,6 +168,7 @@ a {
   margin-top: 10px;
   margin-bottom: 10px;
   background-color: rgba(206, 212, 218, 0.2);
+  font-family: var(--font-family);
 }
 
  
@@ -183,7 +184,7 @@ a {
   opacity: 0.1;
 }
 .start-heading{
-  margin-top: 100px;
+  margin-top: 400px;
 }
   @keyframes colorchange {
       0% {background-color: #cff7de;}
