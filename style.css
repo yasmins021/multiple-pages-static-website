@@ -174,7 +174,8 @@ a {
 .contact-form-button{
   padding: .75rem 1.25rem;
   border-radius: 10rem;
-  color:rgba(44,187,99,.25);
+  color:white;
+  background-color:#50C878;
   font-family: var(--font-family);
   font-size: 18px;
 }
