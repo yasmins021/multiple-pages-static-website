@@ -165,8 +165,8 @@ a {
   border-radius: 0.7rem;
   padding: 20px;
   margin-left: 0.7rem;
-  margin-top: 10px;
-  margin-bottom: 10px;
+  margin-top: 0;
+  margin-bottom: 0;
   background-color: rgba(206, 212, 218, 0.2);
 }
 
