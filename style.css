@@ -171,7 +171,9 @@ a {
   font-family: var(--font-family);
 }
 
- 
+ .work{
+   margin-top: 50px;
+ }
 .contact-form-button{
   padding: .75rem 1.25rem;
   border-radius: 10rem;
