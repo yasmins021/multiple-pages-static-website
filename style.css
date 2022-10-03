@@ -110,12 +110,13 @@
     }
     .skillset {
       font-size: 17px;
-      color: var(--secondary-color);
+      color: purple;
       display: inline-block;
       border: 1px solid var(--primary-color);
       padding: 8px 14px;
       margin: 5px;
       border-radius: 4px;
+      font-family: var(--font-family)
     }
        
   .background,iframe
