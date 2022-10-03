@@ -183,8 +183,8 @@ a {
 .contact-form-button:hover{
   opacity: 0.1;
 }
-.start-heading{
-
+.heading-1{
+  margin-top: 50px;
 }
   @keyframes colorchange {
       0% {background-color: #cff7de;}
