@@ -138,8 +138,9 @@ padding-top:30px;
   
 }
 .projects{
-  margin-left: 25px;
-  margin-right: 25px;
+  margin-left: 35px;
+  margin-right: 35px;
+  margin-top: 10px;
 }
 
 .hover-underline-animation:after {
