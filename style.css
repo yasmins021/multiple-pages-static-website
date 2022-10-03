@@ -137,6 +137,10 @@ padding-top:30px;
   font-family: var(--font-family);
   
 }
+.projects{
+  margin-left: 25px;
+  margin-right: 25px;
+}
 
 .hover-underline-animation:after {
   content: "";
