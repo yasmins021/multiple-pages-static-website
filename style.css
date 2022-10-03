@@ -106,9 +106,17 @@
 
     .homepage{
       margin-top: 400px;
-      line-height: 200px;
+      
     }
-    
+    .skillset {
+      font-size: 17px;
+      color: var(--secondary-color);
+      display: inline-block;
+      border: 1px solid var(--primary-color);
+      padding: 8px 14px;
+      margin: 5px;
+      border-radius: 4px;
+    }
        
   .background,iframe
   {animation-name: colorchange;
