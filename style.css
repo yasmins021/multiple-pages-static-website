@@ -135,6 +135,12 @@ padding-top:30px;
     margin-top: 40px;
   }
 
+  .project-button{
+    border-radius: 10px;
+    display: block;
+    background-color:rgb(103, 232, 103);
+  }
+
 .hover-underline-animation {
   display: inline-block;
   position: relative;
