@@ -185,9 +185,7 @@ a {
   font-family: var(--font-family);
 }
 
- .work{
-   margin-top: 100px;
- }
+ 
 .contact-form-button{
   padding: .75rem 1.25rem;
   border-radius: 10rem;
@@ -263,11 +261,7 @@ height: 90px;}
         }
         .email-link{
             font-size: 20px;}
+       }
             
-        header{
-            font-size: 20px;
-        }
             
-            }
-
 
