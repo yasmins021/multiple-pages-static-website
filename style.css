@@ -130,8 +130,9 @@ padding-top:30px;
 }
 .contact-container{
     background-color: var(--secondary-color);
-    padding: 30px 120px;
+    padding: 20px 100px;
     border-radius: 10px;
+    margin-top: 40px;
   }
 
 .hover-underline-animation {
