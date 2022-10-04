@@ -144,12 +144,12 @@ footer .contact-box {
 }
 
 footer .contact-box h4,
-h1 {
+ {
   margin: 0;
-  font-family: var(--heading-font-family);
+  font-family: var(--font-family);
 }
 footer .contact-box a {
-  font-family: var(--heading-font-family);
+  font-family: var(--font-family);
 }
 
 .hover-underline-animation {
