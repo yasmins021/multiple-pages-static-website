@@ -101,7 +101,7 @@
       }
 
    .container-no-padding{
-     margin-top: 200px;
+     margin-top: 170px;
    }
 
     .about{
@@ -137,6 +137,9 @@ padding-top:30px;
     padding: 20px 100px;
     border-radius: 10px;
     margin-top: 40px;
+    margin-left: 100px;
+    margin-right: 100px;
+    font-family: var(--font-family);
   }
 
   .project-button{
@@ -247,9 +250,7 @@ a {
 height: 90px;} 
 
 
-    .contact-info{
-      margin-top: 100px;
-    }
+  
     li{
       list-style: none;
       line-height: 100px;
