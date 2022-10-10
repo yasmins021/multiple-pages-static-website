@@ -291,6 +291,8 @@ height: 90px;}
       
     }
   
-            
+         .logo{
+           display:none;
+         }   
             
   }
