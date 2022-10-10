@@ -275,17 +275,20 @@ height: 90px;}
     @media screen and (max-width: 1050px){
       .main-header{
         padding: 1% 8%;
-        height:90px
+        height:90px;
+        display: flex;
+    justify-content: space-between;
+    align-items: center;
     }
 
     .hover-underline-animation{
-      font-size: 12px;
+      font-size: 13px;
     }
 
     
         .logo{
          
-          height: 180px;
+          height: 80px;
         }
         
        }
