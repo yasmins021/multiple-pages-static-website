@@ -286,10 +286,13 @@ height: 90px;}
       justify-content: space-between;
       align-items: center;
     }
-
-    
-        
-       }
+    .homepage{
+      margin-top: 400px;
+      
+    }
+   img#kitty{
+display: none;
+   }
             
             
-
+  }
