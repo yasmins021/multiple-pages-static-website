@@ -283,7 +283,7 @@ height: 90px;}
     .hover-underline-animation{
       font-size: 13px;
       display: flex;
-      justify-content: space-between;
+      justify-content: space-evenly;
       align-items: center;
     }
 
