@@ -276,21 +276,21 @@ height: 90px;}
       .main-header{
         padding: 1% 8%;
         display: flex;
-    justify-content: flex-end;
+    justify-content: space-between;
     align-items: center;
     }
 
     .hover-underline-animation{
       font-size: 13px;
       display: flex;
-      justify-content: flex-end;
+      justify-content: space-between;
       align-items: center;
     }
 
     
         .logo{
          
-          height: 150px;
+          height: 120px;
         }
         
        }
