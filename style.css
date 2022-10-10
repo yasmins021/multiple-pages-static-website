@@ -147,7 +147,7 @@ padding-top:30px;
     margin: 20px;
      background-color: 	#50C878;
     border-radius: 100px;
-   font-size: 30px;
+   font-size: 20px;
    
   }
 
@@ -272,15 +272,15 @@ height: 90px;}
 
 
   
-    @media(max-width: 900px){
-        h1{
-            font-size: 70px;
+    @media screen and (max-width: 1050px){
+      header{
+        padding: 3% 5%;
+      }
+        .logo{
+          width: 180px;
+          height: 180px;
         }
-        h2{
-            font-size: 40px;
-        }
-        .email-link{
-            font-size: 20px;}
+        
        }
             
             
