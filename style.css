@@ -290,7 +290,9 @@ height: 90px;}
       margin-top: 400px;
       
     }
-  
+  .logo{
+    display:none;
+  }
             
             
   }
