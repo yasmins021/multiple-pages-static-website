@@ -272,7 +272,7 @@ height: 90px;}
 
 
   
-    @media screen and (max-width: 1280px){
+    @media screen and (max-width: 1050px){
       .main-header{
         padding: 1% 8%;
         display: flex;
@@ -291,8 +291,6 @@ height: 90px;}
       
     }
   
-         .logo{
-           display:none;
-         }   
+            
             
   }
