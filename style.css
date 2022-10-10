@@ -274,7 +274,8 @@ height: 90px;}
   
     @media screen and (max-width: 1050px){
       .main-header{
-        padding: 3% 5%;
+        padding: 1% 8%;
+        height:90px
     }
 
     .hover-underline-animation{
