@@ -248,7 +248,9 @@ a {
 
 }
 .contact-form-button:hover{
-  opacity: 0.1;
+  transform: scale(1.04);
+  background-color: #21e065;
+
 }
 .heading-1{
   margin-top: 50px;
