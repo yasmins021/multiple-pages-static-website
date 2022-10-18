@@ -72,6 +72,7 @@
     user-select: none;
     -webkit-user-select: none;
     touch-action: manipulation;
+    margin-top: 20px;
 }
 
 .navigation-links a:hover {
