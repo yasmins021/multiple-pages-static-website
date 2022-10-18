@@ -141,6 +141,7 @@ padding-top:30px;
     margin-left: 100px;
     margin-right: 100px;
     font-family: var(--font-family);
+    margin-bottom: 40px; 
   }
 
   .project-button{
