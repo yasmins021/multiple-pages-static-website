@@ -337,4 +337,7 @@ height: 90px;}
     .navigation-links{
       margin-top: 0px;
     }
+    .contact-container{
+      display: none;
+    }
   }
